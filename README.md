@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrithiksawant29
+- 👋 Hi, I’m Hrithik Sawant
 - 👀 I’m interested in sketching, coding(beginner) and much more
 - 🌱 I’m currently learning python and c++
 - 📫 How to reach me sawanthrithik7@gmail.com
